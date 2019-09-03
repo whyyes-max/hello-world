@@ -3,11 +3,12 @@ Welcome to GitHub—where millions of developers work together on software. Read
 
 ## This was made by the one
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
-
+A video game i paly is starwar batlle front 2 abd fifa 2019 and miestermc and a lot of other games but only 20 i play.
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
-## WHOS CAlled Tomas      
+## WHOS CAlled Tomas   
+yes i am actually tomas from school, thank you my teacher brigit for the help of the html coding and github codin and stuff
+thanks
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
@@ -35,7 +36,7 @@ Once you click **Rename**, your website will automatically be published at: http
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
 
 ## yet
-
+#yesnow thanks
 When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
 
 With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
@@ -121,18 +122,18 @@ Now click the “View on GitHub” button to get back to your repository’s pag
 
 Once you commit your changes, they are automatically published on your GitHub Pages website. Refresh your browser to see it live!
 
-### Celebrate!
-
+### image(hereisit:www,googleplus.com/tomastheKINg/images)
+ 
 Hooray! Now you have your repository linked between your computer and GitHub.com. In the future, you can use GitHub Desktop to push any changes you decide to make from your computer.
 
 ## Extra Credit: Keep on building!
 
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
+Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://fafinityert2.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
 
 Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
 
 ![octocat](./images/create-octocat.png)
 
 ## Everything you need to know about GitHub
-
+G,#github is good thankyou for the allowatin of me on page, this is dedicated to my teahcer brigitt wit hisher dachshund
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
